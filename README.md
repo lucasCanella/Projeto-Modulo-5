@@ -35,7 +35,7 @@ Este projeto foi feito como parte integrante da avaliação do Módulo 5 do curs
 
 ## Sobre o Projeto <a name="descproj"></a>
 
-Este projeto é um storytelling a partir dos dados dos integrantes da Squad 2 que mostra a relevância de cada membro da equipe e o valor que podemos agregar à sua empresa. 
+Este é um storytelling a partir dos dados dos integrantes da Squad 2 que mostra a relevância de cada membro da equipe e o valor que podemos agregar à sua empresa. 
 
 ### Storytelling <a name="temabo"></a>
 
