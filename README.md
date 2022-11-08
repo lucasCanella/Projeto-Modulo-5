@@ -51,7 +51,7 @@ Como resultado deste projeto pretendemos mostrar aqui nossas vantagens competiti
 ### Construção <a name="estproj"></a>
 
 As ferramentas utilizadas na elaboração deste projeto foram:
-(clique nos links para ir até a páginas oficial das ferramentas): 
+(clique nos links para ir até a página oficial de cada ferramenta): 
 
 
  [<img src="https://raw.githubusercontent.com/Avext/Imagens-de-apresenta-es/main/canva.png" alt="drawing" width="200"/>](https://www.canva.com/pt_br/)
@@ -70,7 +70,7 @@ As ferramentas utilizadas na elaboração deste projeto foram:
  
  - Para coletar dados sobre conexões.
 
- [<img src="https://raw.githubusercontent.com/Avext/Imagens-de-apresenta-es/main/resilia.png" alt="drawing" width="200"/>](https://br.linkedin.com/)
+ [<img src="https://raw.githubusercontent.com/Avext/Imagens-de-apresenta-es/main/resilia.png" alt="drawing" width="200"/>](https://aluno.resilia.work/)
  
  - Potal do estudante para coletar dados sobre o aproveitamento do curso.
  
