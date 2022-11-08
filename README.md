@@ -50,7 +50,7 @@ Como resultado deste projeto pretendemos mostrar aqui nossas vantagens competiti
 
 ### Construção <a name="estproj"></a>
 
-As ferramentas utilizadas na elaboração deste projeto foram:
+As ferramentas utilizadas na elaboração deste projeto foram
 (clique nos links para ir até a página oficial de cada ferramenta): 
 
 
