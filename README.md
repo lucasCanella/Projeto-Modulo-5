@@ -22,7 +22,7 @@
 
 ## Objetivo do Projeto <a name="objproj"></a>
 
-Este projeto foi feito como parte integrante da avaliação do Módulo 5 do curso Data Analytics da Resilia Educação da turma 20 e foi desenvolvido pelo Squad 2 composto pelos estudantes:
+Este projeto foi feito como parte integrante da avaliação do Módulo 5 do curso Data Analytics da Resilia Educação da turma 20 e foi desenvolvido pelo Squad 2, composto pelos estudantes:
 
 - [João Victor Julião](https://github.com/joaovictojuliao);
 
