@@ -60,7 +60,7 @@ Para coletar os dados:
 - [Teste de Personalidade MBTI](https://www.16personalities.com/br/teste-de-personalidade)
 
 ## :email: Contato: <a name="cont"></a>
-- [Linketree](https://linktr.ee/squad2resilia)
+- [Linktree](https://linktr.ee/squad2resilia)
  
 ## :bookmark_tabs: Referências <a name="refproj"></a>
 
