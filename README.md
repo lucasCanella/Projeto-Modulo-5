@@ -1,7 +1,7 @@
 # <font color="#DAA520"><h1 align="center"># Resilia - Projeto do Módulo 5</h1></font>
 
 
-<img src="https://raw.githubusercontent.com/Avext/Imagens-de-apresenta-es/main/capa.png" alt="drawing"/>
+<img src="https://raw.githubusercontent.com/Avext/Imagens-de-apresenta-es/main/capa5.png" alt="drawing"/>
 
 ## :round_pushpin: Índice de Conteúdos:
 
