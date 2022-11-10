@@ -51,7 +51,7 @@ Para a elaboração de dashboards:
 Para consolidação dos dados coletados:
 - [Microsoft Excel](https://www.microsoft.com/pt-br/microsoft-365/excel)
 
-Para coletar dados sobre conexões utilizados:
+Para coletar os dados:
 - [Portal do Aluno - Resilia](https://aluno.resilia.work/)
 - [Linkedin](https://br.linkedin.com/)
 - [CodeWars](https://www.codewars.com/users/sign_in)
