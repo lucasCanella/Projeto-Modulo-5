@@ -11,7 +11,8 @@
 2. [Sobre o Projeto](#descproj);<br/>
     a. [Storytelling](#temabo);<br/>
     b. [Construção](#estproj);<br/>
-4. [Referências](#refproj).
+4. [Referências](#refproj);<br/>
+5. [Contato](#cont).
 
 
 ## :handshake: Objetivo do Projeto: <a name="objproj"></a>
@@ -58,6 +59,9 @@ Para coletar os dados:
 - [Github](https://github.com/login)
 - [Teste de Personalidade MBTI](https://www.16personalities.com/br/teste-de-personalidade)
 
- ## :bookmark_tabs: Referências <a name="refproj"></a>
+## :email: Contato: <a name="cont"></a>
+- [Linketr](https://linktr.ee/squad2resilia)
+ 
+## :bookmark_tabs: Referências <a name="refproj"></a>
 
 [^1]:COZER, P. **Como surgiu essa história de storytelling?** Disponível em: <https://narrative.com.br/como-surgiu-essa-historia-de-storytelling/#:~:text=O%20storytelling%20como%20ferramenta%20de>. Acesso em: 8 nov. 2022.
