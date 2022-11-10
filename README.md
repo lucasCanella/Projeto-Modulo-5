@@ -1,7 +1,7 @@
 
 
 
-# <font color="#DAA520">Resilia - Projeto do Módulo-5</font>
+# <font color="#DAA520">Resilia - Projeto do Módulo 5</font>
 
 
 <img src="https://raw.githubusercontent.com/Avext/Imagens-de-apresenta-es/main/capa.png" alt="drawing"/>
